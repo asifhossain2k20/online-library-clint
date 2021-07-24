@@ -1,0 +1,10 @@
+.leagueCardContainer{
+    float: left;
+    margin: 30px;
+    height:430px;
+    width:100%;
+}
+.cardImgBg {
+    background-color:black;
+    height:220px;
+}
